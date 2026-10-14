@@ -1,0 +1,15 @@
+{
+  "name": "NAC Greater Sepik - Church App",
+  "short_name": "NAC Sepik",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A3D8F",
+  "theme_color": "#0A3D8F",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2602/2602414.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
